@@ -6,8 +6,4 @@ _  npm run start<br />
 _  npm run android<br />
 
 
-## ✔️ Feedback is always appreciable
 
-> “Feedback is the breakfast of champions.” – Ken Blanchard
-
-[Please submit your feedback it helps a lot](https://forms.gle/rGpHoMJFsiaNBN1CA) 😃
